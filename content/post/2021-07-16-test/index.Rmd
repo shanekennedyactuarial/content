@@ -1,0 +1,11 @@
+---
+title: Test 2
+author: Shane Kennedy
+date: '2021-07-16'
+slug: test
+categories:
+  - R
+tags:
+  - R Markdown
+  - regression
+---
